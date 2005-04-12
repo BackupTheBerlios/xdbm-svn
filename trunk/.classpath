@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry sourcepath="lib/src/forms-1.0.5-src.zip" kind="lib" path="lib/forms-1.0.5.jar"/>
+	<classpathentry sourcepath="lib/src/looks-1.3b1-src.zip" kind="lib" path="lib/looks-1.3b1.jar"/>
+	<classpathentry sourcepath="lib/src/swidgets-0.1-src.zip" kind="lib" path="lib/swidgets-0.1.jar"/>
+	<classpathentry sourcepath="lib/src/ToolBar-0.4-src.zip" kind="lib" path="lib/toolbar.jar"/>
+	<classpathentry sourcepath="/nexd/libs/src/sixdml.src.zip" kind="lib" path="/nexd/libs/sixdml.jar"/>
+	<classpathentry sourcepath="/nexd/libs/src/dom3.src.zip" kind="lib" path="/nexd/libs/xml-apis.jar"/>
+	<classpathentry sourcepath="/nexd/libs/src/xmldb.src.zip" kind="lib" path="/nexd/libs/xmldb.jar"/>
+	<classpathentry sourcepath="/nexd/libs/src/xupdate.src.zip" kind="lib" path="/nexd/libs/xupdate.jar"/>
+	<classpathentry sourcepath="lib/src/commons-i18n-20050221.src.zip" kind="lib" path="lib/commons-i18n-20050221.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl.jar"/>
+	<classpathentry kind="src" path="/nexd"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
